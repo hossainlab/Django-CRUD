@@ -1,5 +1,5 @@
-Django CRUD App | A Simple Developer Management System 
-======================================================
+A Simple Developer Management System 
+====================================
 Technology
 ========== 
 * Bootstrap(version-4)
